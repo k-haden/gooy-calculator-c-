@@ -1,0 +1,29 @@
+C:\Users\costarec\source\repos\B\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\costarec\source\repos\B\Calculator\bin\Debug\Calculator.exe
+C:\Users\costarec\source\repos\B\Calculator\bin\Debug\Calculator.pdb
+C:\Users\costarec\source\repos\B\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\costarec\source\repos\B\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\costarec\source\repos\B\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\costarec\source\repos\B\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\costarec\source\repos\B\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\costarec\source\repos\B\Calculator\obj\Debug\Calculator.exe
+C:\Users\costarec\source\repos\B\Calculator\obj\Debug\Calculator.pdb
+C:\devl\T200\B\Calculator\bin\Debug\Calculator.exe.config
+C:\devl\T200\B\Calculator\bin\Debug\Calculator.exe
+C:\devl\T200\B\Calculator\bin\Debug\Calculator.pdb
+C:\devl\T200\B\Calculator\obj\Debug\Calculator.Form1.resources
+C:\devl\T200\B\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\devl\T200\B\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\devl\T200\B\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\devl\T200\B\Calculator\obj\Debug\Calculator.exe
+C:\devl\T200\B\Calculator\obj\Debug\Calculator.pdb
+C:\Users\kelli\OneDrive\Documents\Visual Studio 2017\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\kelli\OneDrive\Documents\Visual Studio 2017\Calculator\bin\Debug\Calculator.exe
+C:\Users\kelli\OneDrive\Documents\Visual Studio 2017\Calculator\bin\Debug\Calculator.pdb
+C:\Users\kelli\OneDrive\Documents\Visual Studio 2017\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\kelli\OneDrive\Documents\Visual Studio 2017\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\kelli\OneDrive\Documents\Visual Studio 2017\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\kelli\OneDrive\Documents\Visual Studio 2017\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\kelli\OneDrive\Documents\Visual Studio 2017\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\kelli\OneDrive\Documents\Visual Studio 2017\Calculator\obj\Debug\Calculator.exe
+C:\Users\kelli\OneDrive\Documents\Visual Studio 2017\Calculator\obj\Debug\Calculator.pdb
